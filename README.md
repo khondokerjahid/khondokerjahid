@@ -5,8 +5,8 @@
 ## I'm a Learner!!
 
 - 🔭 I just Finised UnderGraduate Course in Computer Science And Technology!
-- 🌱 I’m currently doing a Internship
-- 👯 I’m looking for a Entry Level JOB a software Company
+- 🌱 I have experience in software engineering
+- 👯 I’m looking for a Entry Level JOB.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 

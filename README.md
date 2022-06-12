@@ -15,6 +15,5 @@
 
 
 
-<a href = "https://www.linkedin.com/in/khondoker-jahid-01/">LinkedIn</a>
-
+<a href = "https://www.linkedin.com/in/khondoker-jahid-01/"> <h3>My LinkedIn</h3></a>
 <br />

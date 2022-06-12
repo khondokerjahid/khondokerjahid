@@ -13,6 +13,8 @@
 ### Connect with me:
 
 
-<a href = "https://www.linkedin.com/in/khondoker-jahid-01/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/linkedin_174857" /></a>
+
+
+<a href = "https://www.linkedin.com/in/khondoker-jahid-01/">LinkedIn</a>
 
 <br />

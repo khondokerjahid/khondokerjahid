@@ -47,14 +47,21 @@ optimizing processes and enhancing decision-making through data-driven solutions
 - Generating powerful dashboard in Power BI
 
 
-  ![image](https://github.com/user-attachments/assets/f9e3d1e2-7413-48c1-875d-39ed7084c22d)
+![image](https://github.com/user-attachments/assets/f9e3d1e2-7413-48c1-875d-39ed7084c22d)
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,sql,dax,excel,js,react,nodejs,typescript,docker,azure,gcp,terraform,kali,debian" />
-  </a>
-</p>
+![image](https://github.com/user-attachments/assets/8720646c-6292-4817-90a8-5ca94de0bb31)
 
+![image](https://github.com/user-attachments/assets/e353c1c3-432e-4ef9-983d-8ab1d381b801)
 
+<div align="center">
+     
+  <img src="https://github-readme-stats.vercel.app/api?username=khondokerjahid&theme=vue-dark&show_icons=true&hide_border=true&count_private=tru" height="150" alt="streaks graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khondokerjahid&theme=vue-dark&hide_border=true" height="150" alt="streaks graph" height="150" alt="stats graph"  />
+  
+</div> <br>
+</div> 
+<br>
+---
 
 
 
